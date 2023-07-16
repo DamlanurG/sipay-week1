@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DamlaNurGuney.Sipay.Hafta1.props" />
+</Project>
